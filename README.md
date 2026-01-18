@@ -93,8 +93,8 @@ bank-data-ml-app/
 ├── README.md
 │
 ├── data/
-│   └── bank-full.csv (**training**)
-|   └── bank.csv (**validation**)
+│   └── bank-full.csv (training)
+|   └── bank.csv (validation)
 │
 ├── model/
 │   ├── train_models.py
